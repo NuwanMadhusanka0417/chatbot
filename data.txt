@@ -1,0 +1,250 @@
+hello good afternoon are you around	0
+morning	0
+day	0
+hi good night are you around	0
+good day	0
+day are you there	0
+good night	0
+hi afternoon whats up	0
+good afternoon	0
+night are you there	0
+hello morning how are you	0
+day whats up	0
+hi good day whats up	0
+hello morning	0
+hello day	0
+hi good morning are you around?	0
+hi good morning WhatsUp	0
+hi night how are you doing	0
+hello day sup	0
+hello morning WhatsUp	0
+hi good afternoon WhatsUp	0
+good night are you around?	0
+hi good morning whats up	0
+day are you around?	0
+hello good afternoon how is it going	0
+hello good afternoon how are you	0
+hi good afternoon whats up	0
+hi morning how is it going	0
+afternoon are you around?	0
+night	0
+hi good day how are things going	0
+good day how is it going	0
+hello good night are you there	0
+hi night how is it going	0
+good morning sup	0
+afternoon	0
+good day sup	0
+good afternoon are you there	0
+good night are you there	0
+hello good night how are things going	0
+hi good morning how is it going	0
+morning WhatsUp	0
+good morning how are things going	0
+hello good night	0
+hello morning sup	0
+hi good night sup	0
+hello afternoon whats up	0
+good afternoon how are you doing	0
+hi good night how is it going	0
+day WhatsUp	0
+talk to you later	1
+thanks for the support got to go bye	1
+talk to you later bye	1
+thanks have to leave I will call later	1
+thank you goodbye	1
+thanks heading out	1
+i want to leave goodbye	1
+i have to go now goodbye	1
+i have to go now I will call later	1
+thanks for the support heading out goodbye	1
+thanks talk to you later goodbye	1
+going out bye	1
+goodbye	1
+thank you i want to leave goodbye	1
+thanks for the support im leaving now goodbye	1
+thanks for the support have to leave	1
+thank you heading out bye	1
+thank you im leaving now I will call later	1
+thank you leaving goodbye	1
+thank you i want to leave I will call later	1
+thank you going out bye	1
+thanks talk to you soon bye	1
+thanks for the support i have to go now	1
+got to go I will call later	1
+thanks for the support have to leave goodbye	1
+thank you have to leave goodbye	1
+thank you going out	1
+thanks leaving bye	1
+thank you going out I will call later	1
+thanks for the support im leaving now	1
+thank you im leaving now bye	1
+i want to leave I will call later	1
+thank you have to leave I will call later	1
+thank you talk to you later	1
+i have to go goodbye	1
+thanks for the support i have to go now I will call later	1
+thank you i have to go I will call later	1
+have to leave goodbye	1
+thank you i have to go now goodbye	1
+thanks i have to go now goodbye	1
+i have to go	1
+thank you got to go I will call later	1
+thanks for the support have to go I will call later	1
+I will call later thanks	1
+got to go goodbye	1
+im leaving now I will call later	1
+thank you have to leave	1
+thanks got to go I will call later	1
+thanks for the support leaving goodbye	1
+talk to you later I will call later	1
+can you tell me count of students in college	2
+let me know number of babies college	2
+How children college	2
+can I know How many students college	2
+students the school	2
+children the classes	2
+let me know children in classes	2
+can I know number of children in college	2
+let me know children in the college	2
+How many children in the classes	2
+please tell me count of babies in school	2
+please tell me count of children college	2
+please tell me count of children in classes	2
+can you tell me count of students in classes	2
+can I know number of babies school	2
+can I know number of children in school	2
+please tell me count of children in school	2
+let me know number of babies classes	2
+babies college	2
+please tell me students classes	2
+How students the school	2
+please tell me count of babies college	2
+let me know many students in college	2
+How children the college	2
+many students in the school	2
+let me know babies in classes	2
+can you tell me How children in the school	2
+How many babies in the school	2
+let me know students the college	2
+can I know many students in college	2
+children school	2
+please tell me students the classes	2
+let me know number of children in school	2
+please tell me count of babies classes	2
+please tell me count of students classes	2
+let me know count of babies in school	2
+can you tell me How students the college	2
+please tell me How students in college	2
+children in college	2
+can I know count of students in college	2
+children college	2
+can you tell me number of children in school	2
+let me know number of students in college	2
+How children the classes	2
+can I know How students classes	2
+How students in the school	2
+please tell me students in the college	2
+children the school	2
+let me know count of students college	2
+can I know count of babies in college	2
+which type school	3
+Is it a national classes	3
+What type of school	3
+is the type of school	3
+which type of college	3
+the category of college	3
+is the category classes	3
+type classes	3
+which type of school	3
+What type of classes	3
+Is that national school	3
+What category of classes	3
+the category school	3
+is the type college	3
+category of classes	3
+What is the category of college	3
+the category college	3
+which classes	3
+type of school	3
+the category classes	3
+is category of school	3
+is the category school	3
+the type of college	3
+that primary classes	3
+is type school	3
+What the category of school	3
+it boys college	3
+What is type of classes	3
+What the type of college	3
+type of classes	3
+of college	3
+is the type classes	3
+category classes	3
+type college	3
+the type school	3
+What type of college	3
+that primary school	3
+that central school	3
+is category classes	3
+is category of college	3
+What type school	3
+Is this national college	3
+which of college	3
+What is type school	3
+Is it navodya college	3
+category school	3
+college	3
+is type of school	3
+which category of classes	3
+type of college	3
+the village name	4
+is the town	4
+please let me know area	4
+can you inform me name of town	4
+the area	4
+please tell me name village	4
+is city	4
+is college placed	4
+is city name	4
+please inform me name of town	4
+can you let me know name area	4
+what the area name	4
+the area name	4
+can you inform me name area	4
+is the village	4
+is classes placed	4
+what is the area name	4
+please let me know name area	4
+can you inform me of city	4
+can you let me know name town	4
+is school located	4
+what is city	4
+is the city	4
+where is college located	4
+can you let me know of village	4
+is the area name	4
+where college placed	4
+please inform me village	4
+where is school located	4
+village name	4
+where college held on	4
+area name	4
+what area	4
+where is classes located	4
+please tell me of village	4
+please let me know name of village	4
+what village	4
+please tell me name of village	4
+can you tell me of town	4
+where is school held on	4
+please tell me name area	4
+the village	4
+what is town name	4
+what is the city name	4
+town	4
+please let me know name village	4
+can you let me know name of area	4
+the city	4
+what is area name	4
+is village	4
